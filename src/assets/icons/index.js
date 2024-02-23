@@ -26,8 +26,21 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
-
+import c from './c.svg';
+import coding from './coding.svg';
+import python from './python.svg';
+import sql from './sql.svg';
+import salesforce from './salesforce.svg';
+import firebase from './firebase.svg';
+import resume from './reshot-icon-resume-92U4B7WG8Y.svg'
 export {
+    resume,
+    firebase,
+    salesforce,
+    sql,
+    python,
+    coding,
+    c,
     css,
     express,
     git,
