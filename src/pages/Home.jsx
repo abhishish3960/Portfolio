@@ -106,7 +106,7 @@ const Home = () => {
        </Suspense>
 
        </Canvas>
-       <div className={`absolute ${screen.width<=768?'bottom-20 left-4':'bottom-4 left-2'}`}>
+       <div className={`absolute ${screen.width<=768?'bottom-24 left-4':'bottom-4 left-2'}`}>
         <img src={!isPlayingMusic ? soundoff:soundon}
             alt="sound"
             className='w-10 h-10 cursor-pointer object-contain'
