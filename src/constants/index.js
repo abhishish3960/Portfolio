@@ -215,6 +215,7 @@ export const projects = [
         name: 'Filmify',
         description: 'Developed a web app which looks near identical in terms of styling to the current version of Netflix. Implemented content updates in real-time by interfacing with the movie database API.Supports trailer playback for titles. Fully Responsive, all the way down to the smallest phone screens.',
         link: 'https://github.com/abhishish3960/Filmify',
+        linkcc:'https://netflix-clone-c6b8d.web.app',
     },
     {
         iconUrl:sss,
@@ -222,6 +223,7 @@ export const projects = [
         name: 'Sanity Test ',
         description: 'Developed a classification model to forecast the likelihood of a sanity test case failure on the platform when a specific file is altered, based on a combination of attributes. Ensemble two models namely Random Forest and Multinomial Logistic regression using soft voting. Got an accuracy of 97.18%.',
         link: 'https://github.com/abhishish3960/Sanity-Test',
+        linkcc:'https://github.com/abhishish3960/Sanity-Test',
     },
     {
         iconUrl: ca,
@@ -229,6 +231,7 @@ export const projects = [
         name: 'Crowd Anomaly Detection',
         description: 'Built a machine learning system for fast and precise detection of unusual events in visual surveillance. Introduced the ”Motion Influence Map” approach to represent human activities, significantly improving anomaly detection efficiency.',
         link: 'https://github.com/abhishish3960/Crowd-Anomaly-Detection',
+        linkcc:'https://github.com/abhishish3960/Crowd-Anomaly-Detection',
     },
   
     {
@@ -237,6 +240,7 @@ export const projects = [
         name: 'Hemo Life',
         description: 'Designed a webpage enabling users to locate the nearest blood bank and access information about available blood types at each facility. Incorporated a feature for blood banks to daily update their stock availability on the platform.',
         link: 'https://github.com/abhishish3960/Hemo-Life',
+        linkcc:'https://github.com/abhishish3960/Hemo-Life',
     },
     {
         iconUrl: tt,
@@ -244,5 +248,6 @@ export const projects = [
         name: 'Tweets-Clustering',
         description: 'The project includes implementation of K-means algorithm (an unsupervised learning algorithm) without using any libraries. The Objective of this project is to cluster the similar tweets based on similarity of words within the sentences.',
         link: 'https://github.com/abhishish3960/Tweets-Clustering',
+        linkcc:'https://github.com/abhishish3960/Tweets-Clustering',
     }
 ];

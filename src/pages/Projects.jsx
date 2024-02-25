@@ -19,7 +19,7 @@ const Projects = () => {
         <div className='block-container w-20 h-20'>
           <div className={`btn-back rounded-xl ${project.theme}`}/>
           <div className='btn-front rounded-xl flex justify-center items-center'>
-          <Link to={project.link}  target='_blank' rel='noopener noreferrer'>
+          <Link to={project.linkcc}  target='_blank' rel='noopener noreferrer'>
             <img src={project.iconUrl} alt= "Project Icon" className='w-4/5 h-4/5 object-contain items-center ml-2'/>
             </Link>
           </div>
