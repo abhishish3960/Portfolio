@@ -13,7 +13,9 @@ import techila from './techila.png';
 import aps from './aps.png';
 import rgipt from './rgipt.png';
 import sri from './sri.jpg';
-
+import prtfolio from './prtfolio.jpg'
+import taskweb from './taskweb.png'
+import blog from './blog.png'
 export {
     hero,
     meta,
@@ -21,5 +23,5 @@ export {
     starbucks,
     tesla,
     logo,
-    aa,sss,ca,bb,tt,techila, aps,rgipt,sri
+    aa,sss,ca,bb,tt,techila, aps,rgipt,sri,prtfolio,taskweb,blog
 }

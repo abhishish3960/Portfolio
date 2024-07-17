@@ -36,7 +36,7 @@ import {
 
 import {
     
-    aa,sss,ca,bb,tt,techila, aps,sri,rgipt
+    aa,sss,ca,bb,tt,techila, aps,sri,rgipt, prtfolio, taskweb, blog
 } from '../assets/images'
 
 console.log(css);
@@ -218,6 +218,31 @@ export const projects = [
         linkcc:'https://netflix-clone-c6b8d.web.app',
     },
     {
+        iconUrl: taskweb,
+        theme: 'btn-back bg-cyan-600',
+        name: 'TaskMaster Pro',
+        description: 'Integrated Angular and Flask to develop a robust task management system with Angular Material for dynamic UI components. Utilized PostgreSQL and SQLAlchemy for efficient data storage and management, optimizing backend APIs for streamlined task handling and achieving enhanced system performance.',
+        link: 'https://github.com/abhishish3960/TaskWebApp-Frontend',
+        linkcc:'https://taskwebapp.netlify.app',
+    },
+    {
+        iconUrl: prtfolio,
+        theme: 'btn-back bg-purple-700',
+        name: 'Portfolio',
+        description: 'Created an interactive 3D animation website using Three.js, showcasing my personal projects. Implemented adaptive scaling and positioning techniques for seamless user experience across devices. Introduced touch rotation for 3D elements on smaller devices and integrated EmailJS for contact functionality.',
+        link: 'https://github.com/abhishish3960/Portfolio',
+        linkcc:'https://abhishek-ashish-portfolio.netlify.app',
+    },
+    {
+        iconUrl: blog,
+        theme: 'btn-back-yellow',
+        name: 'Blogifyr',
+        description: 'Blogifyr is a modern web application for managing and publishing blog posts. It offers an intuitive interface for creating, editing, and deleting posts, along with customizable themes for personalized viewing. Built with responsiveness in mind, Blogifyr ensures a seamless experience across devices.',
+        link: 'https://github.com/abhishish3960/Blogifyr',
+        linkcc:'https://blogifyr.netlify.app',
+    },
+   
+    {
         iconUrl:sss,
         theme: 'btn-back-blue',
         name: 'Sanity Test ',
@@ -244,7 +269,7 @@ export const projects = [
     },
     {
         iconUrl: tt,
-        theme: 'btn-back-yellow',
+        theme: 'btn-back bg-lime-800',
         name: 'Tweets-Clustering',
         description: 'The project includes implementation of K-means algorithm (an unsupervised learning algorithm) without using any libraries. The Objective of this project is to cluster the similar tweets based on similarity of words within the sentences.',
         link: 'https://github.com/abhishish3960/Tweets-Clustering',
